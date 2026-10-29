@@ -3,4 +3,4 @@ Interactive Blinkit Grocery Sales Dashboard built using Microsoft Power BI to an
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](images/Blinkit.png)
+![Blinkit Dashboard](Blinkit.png)
